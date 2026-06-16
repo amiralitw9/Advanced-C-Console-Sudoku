@@ -9,6 +9,8 @@ A complex and advanced implementation of **Samurai Sudoku** in modern C++ using 
 The game dynamically renders the giant multi-grid board on the console and manages global overlapping constraints in real-time.
 
 <p align="center">
+    <img src="assets/1.png" width="550" alt="Samurai Sudoku Console Gameplay" />
+  <img src="assets/2.png" width="550" alt="Samurai Sudoku Console Gameplay" />
   <img src="assets/3.png" width="550" alt="Samurai Sudoku Console Gameplay" />
 </p>
 
